@@ -35,9 +35,6 @@ Custom scoring formula based on:
 
 ### 5. Final Output – Top 30 Funds
 Extracted the **Top 30 Mutual Funds** with best return-low risk balance  
-🔗 [Top 30 Mutual Funds (Excel)](https://github.com/ankit827357/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx)
-
----
 ### 📌 Key Features
 
 #### 📅 Dynamic Filters
